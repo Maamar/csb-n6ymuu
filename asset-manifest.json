@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://maamar.github.io/csb-n6ymuu/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://maamar.github.io/csb-n6ymuu/static/js/main.8cf0ded0.chunk.js",
+    "main.js.map": "https://maamar.github.io/csb-n6ymuu/static/js/main.8cf0ded0.chunk.js.map",
+    "runtime-main.js": "https://maamar.github.io/csb-n6ymuu/static/js/runtime-main.be62c26a.js",
+    "runtime-main.js.map": "https://maamar.github.io/csb-n6ymuu/static/js/runtime-main.be62c26a.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://maamar.github.io/csb-n6ymuu/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://maamar.github.io/csb-n6ymuu/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://maamar.github.io/csb-n6ymuu/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://maamar.github.io/csb-n6ymuu/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://maamar.github.io/csb-n6ymuu/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be62c26a.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cf0ded0.chunk.js"
+  ]
+}
